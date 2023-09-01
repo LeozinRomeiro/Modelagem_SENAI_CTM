@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T22:42:36.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MeqpW-1JMylQvPuFSy7t" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T22:45:04.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VE80JKo4nN0qoJh31Ckf" version="21.7.2" type="github">
   <diagram name="Página-1" id="sUAvk8ibwiXFDRN5bp4g">
     <mxGraphModel dx="1434" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
             <mxRectangle width="200" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z6euQ2ktUDiDJCqqF_y-35" value="Cadastrar Cliente&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-33">
+        <mxCell id="0z6euQ2ktUDiDJCqqF_y-35" value="Tipo de pão" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-33">
           <mxGeometry x="200" width="440" height="59" as="geometry">
             <mxRectangle width="440" height="59" as="alternateBounds" />
           </mxGeometry>
@@ -281,7 +281,7 @@
             <mxRectangle width="200" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z6euQ2ktUDiDJCqqF_y-41" value="25/08/2023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-39">
+        <mxCell id="0z6euQ2ktUDiDJCqqF_y-41" value="18/08/2023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-39">
           <mxGeometry x="200" width="440" height="58" as="geometry">
             <mxRectangle width="440" height="58" as="alternateBounds" />
           </mxGeometry>
@@ -294,7 +294,7 @@
             <mxRectangle width="200" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z6euQ2ktUDiDJCqqF_y-44" value="25/082023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;align=left;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-42">
+        <mxCell id="0z6euQ2ktUDiDJCqqF_y-44" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;align=left;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-42">
           <mxGeometry x="200" width="440" height="60" as="geometry">
             <mxRectangle width="440" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -307,7 +307,7 @@
             <mxRectangle width="200" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z6euQ2ktUDiDJCqqF_y-47" value="Luan Pacceli de moura" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-45">
+        <mxCell id="0z6euQ2ktUDiDJCqqF_y-47" value="Leonardo Romeiro" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-45">
           <mxGeometry x="200" width="440" height="59" as="geometry">
             <mxRectangle width="440" height="59" as="alternateBounds" />
           </mxGeometry>
@@ -320,7 +320,7 @@
             <mxRectangle width="200" height="167" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z6euQ2ktUDiDJCqqF_y-50" value="O cadastro de associados deverá ser feito através do armazenamento de suas informações básicas:&lt;br&gt;&lt;br&gt;&amp;nbsp;- Nome do Cliente&lt;br&gt;&amp;nbsp;- Data de Nascimento&lt;br&gt;&amp;nbsp;- CPF&lt;br&gt;&amp;nbsp;- Endereço&lt;br&gt;-&amp;nbsp; &amp;nbsp;Contato&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-48">
+        <mxCell id="0z6euQ2ktUDiDJCqqF_y-50" value="O cadastro de associados deverá ser feito através do armazenamento de suas informações básicas:&lt;br&gt;&lt;br&gt;&amp;nbsp;- Nome&lt;br&gt;&amp;nbsp;- Descrição&lt;br&gt;&amp;nbsp;- Imagem" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="0z6euQ2ktUDiDJCqqF_y-48">
           <mxGeometry x="200" width="440" height="167" as="geometry">
             <mxRectangle width="440" height="167" as="alternateBounds" />
           </mxGeometry>
