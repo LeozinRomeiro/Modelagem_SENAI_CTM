@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T00:11:11.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VuR8vsUJ_O5-A11TD4m2" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T00:14:51.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="seTybIek0LKbKfYEEQ8y" version="22.0.4" type="github">
   <diagram name="Página-1" id="vhzFF3WJnwFL6X2i2Ius">
     <mxGraphModel dx="3328" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -602,7 +602,7 @@
           <mxGeometry x="-938.12" y="3950" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1LOYD-cINKp205b2P9bu-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;BEM VINDO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="-824.3700000000001" y="4010" width="112.5" height="30" as="geometry" />
+          <mxGeometry x="-831.7500000000001" y="4010" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1LOYD-cINKp205b2P9bu-17" value="Novo Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-845.5" y="4090" width="140" height="30" as="geometry" />
@@ -667,7 +667,7 @@
         <mxCell id="1LOYD-cINKp205b2P9bu-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TELA PRINCIPAL DE LOGIN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-517.5" y="4565" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_nSGm4usRdFxlgzys2bx-2" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="_nSGm4usRdFxlgzys2bx-2" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="-731.5" y="4676" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
