@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T22:44:53.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iQ0BGDfoY98gURjt22vb" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T00:08:13.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nEFPmj2Xc0BOVnqhi1V2" version="22.0.4" type="github">
   <diagram name="Página-1" id="vhzFF3WJnwFL6X2i2Ius">
-    <mxGraphModel dx="3088" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3328" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -580,20 +580,92 @@
         <mxCell id="QiQuT8UKPNixkOJn6IB_-210" value="FINALIZAR PEDIDO" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-607.4999999999999" y="680" width="110.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6fMnpe06W90xHNKOTw0e-1" value="&amp;nbsp; Pagamento verificado!!!&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;labelBackgroundColor=none;labelBorderColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="6fMnpe06W90xHNKOTw0e-1" value="&amp;nbsp; Pagamento verificado!!!&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;labelBackgroundColor=none;labelBorderColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-947.19" y="2460" width="326.13" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6fMnpe06W90xHNKOTw0e-2" value="&lt;font color=&quot;#999999&quot;&gt;Informação aparece automaticamente apos o pagamento&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6fMnpe06W90xHNKOTw0e-2" value="&lt;font color=&quot;#999999&quot;&gt;Informação aparece automaticamente apos o pagamento&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-865.45" y="2520" width="132.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6fMnpe06W90xHNKOTw0e-4" value="CALCULO DO TROCO:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6fMnpe06W90xHNKOTw0e-4" value="CALCULO DO TROCO:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1036.12" y="2970" width="123.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6fMnpe06W90xHNKOTw0e-5" value="&amp;nbsp; TROCO&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
+        <mxCell id="6fMnpe06W90xHNKOTw0e-5" value="&amp;nbsp; TROCO&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1037" y="3000" width="123.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6fMnpe06W90xHNKOTw0e-6" value="&lt;font color=&quot;#999999&quot;&gt;Informação aparece automaticamente conforme o valor inserido&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6fMnpe06W90xHNKOTw0e-6" value="&lt;font color=&quot;#999999&quot;&gt;Informação aparece automaticamente conforme o valor inserido&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1038.63" y="3040" width="138.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-971.5" y="3940" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-2" value="TELA DE LOGIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-938.12" y="3950" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;BEM VINDO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-824.3700000000001" y="4010" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-17" value="Novo Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-845.5" y="4090" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-21" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Criar Conta&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-805.5" y="4220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-855.44" y="4210" width="162.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-966.75" y="4400" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-25" value="TELA DE LOGIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-936.12" y="4400" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;FAÇA&amp;nbsp; LOGIN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-837.37" y="4450" width="138.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-902" y="4490" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Lembrar&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-862.75" y="4660" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-832.8699999999999" y="4729.06" width="162.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-33" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+          <mxGeometry x="-926.62" y="4490" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-34" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;USUARIO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-805.5" y="4505" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-897.12" y="4590" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-36" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.unsecure;" vertex="1" parent="1">
+          <mxGeometry x="-932" y="4590" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="4605" width="28.94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ENTRAR&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-787" y="4739.06" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-884.01" y="4660" width="21.87" height="21.87" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-47" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Esqueceu a Senha&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-726.5" y="4657" width="120" height="19.06" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.952;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.852;exitY=0.86;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1LOYD-cINKp205b2P9bu-35" target="1LOYD-cINKp205b2P9bu-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-639" y="4630" as="sourcePoint" />
+            <mxPoint x="-612.5" y="4600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TELA LOGIN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="4093" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1LOYD-cINKp205b2P9bu-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TELA PRINCIPAL DE LOGIN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-517.5" y="4565" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
